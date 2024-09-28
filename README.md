@@ -56,3 +56,5 @@ Expanding geographic coverage for a global runtime analysis.
 License
 
 This project is licensed under the MIT License.
+
+Visit : https://newstree24.com/2024/09/17/project-visualizing-netflix-data/ to see static dashboard on web.
